@@ -99,11 +99,12 @@ cd frontend
 npm install
 npm run dev
 
-## 📊 Example Workflow
+## Example Workflow
 
 - Upload your resume (PDF/DOCX)
 - Select a job role (Java Developer, Data Analyst, etc.)
 - Get an instant compatibility score
 - Review missing skills and improve your resume
 - Check scan history stored in the database
+
 
