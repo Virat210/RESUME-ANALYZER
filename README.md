@@ -1,6 +1,6 @@
 # 🚀 JobFit Analyzer - AI-POWERED RESUME SCREENING TOOL
 
-JobFit Analyzer is a Full-Stack application that parses resumes (PDF/DOCX) and matches them against jo descriptions using keyword analysis.
+JobFit Analyzer is a Full-Stack application that parses resumes (PDF/DOCX) and matches them against job descriptions using keyword analysis.
 It provides candidates with an instant compatibility score and identifies missing skills.
 
 ## 🤜🤛 Project_Structure:-
